@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ayrtonjofre/pokedex-server/issues"
   },
-  "homepage": "https://github.com/ayrtonjofre/pokedex-server#readme"
+  "homepage": "https://github.com/ayrtonjofre/pokedex-server#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
